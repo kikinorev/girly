@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C s'appelle Nouveau nom
+ Le num‚ro de s‚rie du volume est 1A11-454A
+
+ R‚pertoire de C:\Users\John\mesdepots\totogirly
+
+17-06-21  08:44    <DIR>          .
+17-06-21  08:40    <DIR>          ..
+17-06-21  08:42                54 README.md
+17-06-21  08:44                 0 test.txt
+               2 fichier(s)               54 octets
+               2 R‚p(s)  41.719.230.464 octets libres
